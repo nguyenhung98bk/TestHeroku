@@ -38,7 +38,7 @@
     </div>
     <div class="content">
     	<div class="content-header">
-    		<h2>Clothing Shop</h2>
+    		<h2>Shop</h2>
     		<p>Lorem ipsum dolor sit amet,<br>consectetur adipiscing elit. Etiam<br>efficitur sapien ornare lectus<br>vehicula dapibus.
     		</p>
     	</div>
